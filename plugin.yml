@@ -1,0 +1,13 @@
+name: Yenilikler
+version: 1.0.0
+api:
+  - 3.0.0
+  - 4.0.0
+author: xRookieFight
+website: xrookiefight.engineer
+main: xRookieFight\Yenilikler
+
+
+commands:
+  yenilikler:
+    description: Yenilikler komutu.
